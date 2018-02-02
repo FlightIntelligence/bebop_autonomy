@@ -1,0 +1,3 @@
+[submodule "parrot_arsdk"]
+	path = parrot_arsdk
+	url = ../parrot_arsdk.git
